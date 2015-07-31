@@ -53,7 +53,7 @@ Now rerun `lein deps` and you should all set.
 ```
 user=> (require '[rst-clojure.core :as rst])
 nil
-user=> ;usings second paragraph of the Gettysburg Address as an example
+user=> ;using second paragraph of the Gettysburg Address as an example
 user=> (def getty "Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.") 
  
 #'user/getty
